@@ -1,0 +1,10 @@
+.navbar {
+    overflow: hidden;
+    background: linear-gradient(#e66465, #9198e5);
+    padding: 20px 10px;
+}
+
+p {
+      font-family: "Dancing Script";
+      font-size: 33px;
+}
