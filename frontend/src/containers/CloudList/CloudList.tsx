@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import Clouds from '../../components/Clouds/Clouds'
-import { testData } from './testData'
 import './CloudList.css'
 
 
