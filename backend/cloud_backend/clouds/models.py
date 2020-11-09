@@ -10,3 +10,6 @@ class Cloud(models.Model):
 
     class Meta:
         indexes = [models.Index(fields=["name"])]
+
+    def __str__(self):
+        return "%s" % (self.name)

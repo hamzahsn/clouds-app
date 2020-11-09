@@ -1,3 +1,5 @@
 from django.contrib import admin
 
-# Register your models here.
+from clouds.models import Cloud
+
+admin.site.register(Cloud)
