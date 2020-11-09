@@ -1,5 +1,7 @@
 ## Aiven Cloud :fire: :rocket: :cloud: :zap:
 
+![Cloud provider](cloud.gif)
+
 ## Introduction
 
 This application is a demo for Aiven cloud
